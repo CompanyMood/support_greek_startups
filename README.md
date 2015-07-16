@@ -1,24 +1,21 @@
-# README
+# #supportgreekstartups
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the code behing http://www.support-greek-startups.com 
 
-Things you may want to cover:
+## Dependencies
+* Ruby 2.2.2
+* Bundler (who has thought so? :wink:)
 
-* Ruby version
+## Man this is RAW
+Yes indeed, it is.
+I will work on it more in the next time but it should be enough to help encouraged developers and designers to contribute.
 
-* System dependencies
+## Ah, contribution eh?
+Yeah, in case you want to support this initiative with some fancy desings, translation, bugfixes / reports or even whole features.
 
-* Configuration
+This is the way to go:
+* Fork the project
+* Work in a feature branch
+* Create PR
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks in advice and spread the word about this initiative.
