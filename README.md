@@ -20,4 +20,4 @@ This is the way to go:
 
 *Note: Please add Screenshots into your PR in case you worked on the design itself or your feature contains any design additions. That leads to more shininess :star2: and oversight.*
 
-Thanks in advice and spread the word about this initiative.
+Thanks in advance and spread the word about this initiative.
